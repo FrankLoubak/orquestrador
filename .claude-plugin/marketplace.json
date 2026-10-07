@@ -1,0 +1,12 @@
+{
+  "name": "frankloubak-metodo",
+  "owner": { "name": "FrankLoubak" },
+  "description": "Método de desenvolvimento orientado a agentes usado no Rota33, TruckHelm e Painel de Monitoramento",
+  "plugins": [
+    {
+      "name": "metodo-orquestrador",
+      "source": "./plugins/metodo-orquestrador",
+      "description": "Planejamento em sprints com agentes, gates, testes contínuos, red team e hooks de proteção"
+    }
+  ]
+}

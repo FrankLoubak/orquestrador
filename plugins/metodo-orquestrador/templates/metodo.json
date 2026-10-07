@@ -1,0 +1,11 @@
+{
+  "protected_paths": [],
+  "block_push_branches": ["main", "master"],
+  "header": {
+    "enabled": true,
+    "extensions": [".py", ".ts", ".tsx", ".js", ".jsx", ".sql", ".sh"],
+    "required_labels": ["O que faz", "Para que serve", "Relaciona-se com"],
+    "max_lines": 30,
+    "exclude": ["node_modules/*", "dist/*", "build/*", "tests/fixtures/*", "*.min.js"]
+  }
+}

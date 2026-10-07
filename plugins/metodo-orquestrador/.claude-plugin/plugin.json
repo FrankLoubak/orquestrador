@@ -1,0 +1,6 @@
+{
+  "name": "metodo-orquestrador",
+  "version": "0.1.0",
+  "description": "Método de planejamento e execução orientado a agentes: perguntas antes de supor, sprints com gates, modelo por agente, cabeçalho obrigatório, testes de navegação contínua e red team.",
+  "author": { "name": "FrankLoubak" }
+}
